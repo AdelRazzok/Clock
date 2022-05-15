@@ -47,6 +47,11 @@ body {
 	background: #303030;
 }
 
+.hours-hand {
+	width: 25%;
+	left: 26%;
+}
+
 .seconds-hand {
 	background: red;
 }
